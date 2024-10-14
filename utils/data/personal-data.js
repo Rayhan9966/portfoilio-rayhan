@@ -6,7 +6,7 @@ export const personalData = {
   email: 'rayhanuddincse16@gmail.com',
   phone: '+971505269802',
   address: 'Abu Dhabi,United Arab Emirates ',
-  github: 'https://www.linkedin.com/in/mohammed-rayhan-uddin-1b4708216/',
+  github: 'https://github.com/Rayhan9966',
   facebook: 'https://www.facebook.com/mdrayhan.uddin.7/',
   linkedIn: 'https://www.linkedin.com/in/mohammed-rayhan-uddin-1b4708216/',
   twitter: 'https://www.linkedin.com/in/mohammed-rayhan-uddin-1b4708216/',
